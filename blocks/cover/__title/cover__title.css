@@ -14,6 +14,7 @@
     line-height: calc(35px + (76 - 35) * ((100vw - 320px) / (750 - 320)));
     font-size: calc(32px + (72 - 32) * ((100vw - 320px) / (750 - 320)));
     padding: 0 16px;
+    max-width: 70%;
   }
 }
 

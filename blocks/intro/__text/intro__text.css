@@ -6,3 +6,9 @@
   color: #fff;
   margin: 0 0 33px;
 }
+
+@media screen and (max-width: 320px) {
+  .intro__text {
+    margin: 0 0 34px;
+  }
+}
