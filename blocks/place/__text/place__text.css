@@ -14,7 +14,6 @@
 
 @media screen and (max-width: 650px) {
   .place__text {
-    font-size: 16px;
     padding: 0 16px;
   }
 }
